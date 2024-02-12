@@ -11,10 +11,6 @@ the Austin branch of the IWW actively opposes discrimination.  No wage or salari
 [IWW Constitution](https://iww.org/assets/iww-constitution.pdf)) shall be excluded from the GMB because of race,
 ethnicity, sex, nationality, creed, disability, sexual orientation, age, or gender identity.
 
-### Section 2
-The jurisdiction for the Austin GMB will be Travis and the surrounding counties (including Bastrop, Hays, and Williamson
-).
-
 ## Article II: Members
 
 ### Section 1
@@ -23,6 +19,9 @@ branch members.  Other members may choose to affiliate if they can reasonably pa
 them.
 
 ### Section 2
+If potential members outside of Travis County or surrounding counties are in what is considered an "active campaign" by the IWW Austin Organizing Board, they may apply to be members of the Austin GMB. Their membership must be voted on by members in the nearest business meeting by simple majority if quorum is met, or on the next business meeting with quorum until a closer a GMB until a closer GMB, Job Branch, or IUB is formed. Once that body is formed, they must hold their own elections, their own meetings and move to establish their own working branch seperate from the IWW Austin GMB.
+
+### Section 3
 All members of the Austin GMB in good standing are entitled to vote as part of the GMB, may be appointed to committees,
 and may run for an officer position.
 
@@ -47,9 +46,9 @@ Specifically, they shall:
 4. Endeavor to keep branch members aware of all referenda and news from GHQ.
 5. Fill out blank convention delegate credentials and return one copy to General Headquarters at least 15 days prior to 
    the start of convention.
-6. Act as Organizing Department Liaison (ODL).
 7. The branch secretary must retain all relevant documents within the requirements of the [Labor-Management Reporting and
    Disclosure Act (LMRDA)](https://www.dol.gov/agencies/olms/compliance-assistance/record-keeping).
+8. Coordinate with branch and committe chairs on general business meeting topics
 
 ### Section 3: Branch Correspondence Secretary
 The branch correspondence secretary is an optional position that may assist the branch secretary with duties related to 
@@ -65,7 +64,17 @@ Specifically, they shall:
    place of the meetings, and distributing a draft meeting agenda.
 4. Be responsible for ensuring that minutes of monthly branch meetings are distributed to all branch members.
 
-### Section 4: Branch Treasurer
+### Section 4: Branch Organizing Department Liason (ODL)
+The Branch Organizing Department Liason shall be the resonsible custodian of duties related to the branch organizing committee.  
+
+Specifically, they shall:  
+1. Be the main contact between the branch and the Organizing Department Board (ODB). All organizing leads from ODB will past first to the Oganizing Department Liason, who shall act as intermediary to the branch organizing department.
+2. All organizing resources, assisstance and funds shall be requested from the ODB by the ODL on behalf of the branch, organizing shop represented by the branch, or dues paying members of the branch.
+3. Write monthly branch reports as requested by ODB and submit them in a timely fashion to the board.
+4. Chair regular meetings with the organizing committee and assign minutes taking and distribution.
+5. Communicate as committee chair new business to the Branch Secretary in a timely fashion a minimum of two days prior to General Business Meetings.
+
+### Section 5: Branch Treasurer
 The branch treasurer shall be the responsible custodian of duties related to funds and supplies (in the MPP enumerated 
 4,9,10,11,12 as of March 2020). 
 
@@ -85,15 +94,15 @@ Specifically they shall:
    Failure to report monthly will cause headquarters' records to become out of date and list members in bad standing. 
    These members will then not receive the General Organization Bulletin (GOB), referendum ballots, or the Industrial 
    Worker (IW).
-   
-### Section 5: Harassment & Grievance Officer
+
+### Section 6: Harassment & Grievance Officer
 The branch shall appoint at least one harassment & grievance officer (“HGO”), who shall be responsible for receiving and 
 processing complaints, including mediation (if chosen by the involved parties), coordination of any immediate relief and 
 accountability measures, and any necessary escalation of complaints.
 1. This role may be shared among any number of elected branch members in good standing.
 2. If more than one HGO is elected, gender parity should be prioritized.
 
-### Section 6: Branch Secretary-Treasurer Report
+### Section 7: Branch Secretary-Treasurer Report
 Branch officers must collaboratively produce the standard Branch Secretary-Treasurer Report and send it to GHQ monthly. 
 The BST Report template is available on the IWW website. Reports should include as much of the following as is 
 applicable:
@@ -109,7 +118,7 @@ applicable:
 9. Name of the branch member authorized to request Literature Department credit 
 10. A report on the activities and prospects of the branch
 
-### Section 7: Removal of Officers
+### Section 8: Offer Elections and Removal of Officers
 1. Passwords to branch accounts will be changed when an officer vacates a branch.
 2. Removal from office will require a simple majority recall vote, held whenever 5 or more members of the GMB submit a 
    petition for recall at a monthly or special branch meeting. Any officer who fails to report to the GMB for 3 months 
@@ -126,7 +135,7 @@ applicable:
    create, distribute, collect, and count the ballots. This vote will occur two months before the officer election, and 
    the officiator cannot run for office in that election. Ballots must be retained by the branch for at least one year.
 
-### Section 8: Finances
+### Section 9: Finances
 1. The branch shall maintain a bank account in its name for the purposes of organizing and union expenses. It shall be 
    the responsibility of the branch treasurer to keep a balanced ledger of this account and to act as liaison between 
    the branch and our bank.
@@ -146,7 +155,7 @@ applicable:
    banking records from the previous fiscal year. Using this information, the committee shall create a budget for the 
    upcoming fiscal year and it will be voted on by branch membership at the first June meeting.
 
-### Section 9: Austin GMB Treasury
+### Section 10: Austin GMB Treasury
 In order to maintain equitable control of branch finances, at least the secretary and treasurer must be signers on the 
 branch bank account at all times.
 1. Officer Transition and Branch Treasury
@@ -189,7 +198,7 @@ will be responsible for counting, and reporting these motions and outcomes to th
 5. Only members in the branch in good standing may vote.
 
 ### Section 3: Meetings
-The Austin IWW branch shall hold meetings every other week. 
+The Austin IWW branch shall hold meetings every other week. Only members of the IWW in good standing may ateend general business meetings. IWW members who are not members of ATX GMB have voice but no vote.
 
 ### Section 4: Amendment of Bylaws
 Amendments to these bylaws may be proposed no later than prior to annual elections and will be voted on there by all 
@@ -297,3 +306,4 @@ Policies and Procedures](https://docs.google.com/document/d/1r_liXQVoSw0wArfaL7K
 [section 8-2](https://docs.google.com/document/d/1r_liXQVoSw0wArfaL7KBVevsvzXweYrM1t_cEWkDcZA/edit#heading=h.40rwhnf9fdox). 
 
 END OF BYLAWS
+

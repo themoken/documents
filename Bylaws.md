@@ -1,6 +1,5 @@
-DRAFT
-
 # Austin IWW Bylaws
+Current iteration approved by Austin IWW Branch Members 11/10/23
 
 ## Article I: Values and Jurisdiction
 
@@ -102,7 +101,10 @@ accountability measures, and any necessary escalation of complaints.
 1. This role may be shared among any number of elected branch members in good standing.
 2. If more than one HGO is elected, gender parity should be prioritized.
 
-### Section 7: Branch Secretary-Treasurer Report
+### Section 7: Delegates
+Delegates shall sign up and onboard new members, collect dues, and maintain regular contact with members and other fellow workers. As many delegates are elected as needed (preferably one delegate per 10 members). They shall attend monthly and special meetings of the IWW Austin GMB whenever possible.
+
+### Section 8: Branch Secretary-Treasurer Report
 Branch officers must collaboratively produce the standard Branch Secretary-Treasurer Report and send it to GHQ monthly. 
 The BST Report template is available on the IWW website. Reports should include as much of the following as is 
 applicable:
@@ -118,7 +120,7 @@ applicable:
 9. Name of the branch member authorized to request Literature Department credit 
 10. A report on the activities and prospects of the branch
 
-### Section 8: Offer Elections and Removal of Officers
+### Section 9: Offer Elections and Removal of Officers
 1. Passwords to branch accounts will be changed when an officer vacates a branch.
 2. Removal from office will require a simple majority recall vote, held whenever 5 or more members of the GMB submit a 
    petition for recall at a monthly or special branch meeting. Any officer who fails to report to the GMB for 3 months 
@@ -135,7 +137,7 @@ applicable:
    create, distribute, collect, and count the ballots. This vote will occur two months before the officer election, and 
    the officiator cannot run for office in that election. Ballots must be retained by the branch for at least one year.
 
-### Section 9: Finances
+### Section 10: Finances
 1. The branch shall maintain a bank account in its name for the purposes of organizing and union expenses. It shall be 
    the responsibility of the branch treasurer to keep a balanced ledger of this account and to act as liaison between 
    the branch and our bank.
@@ -155,7 +157,7 @@ applicable:
    banking records from the previous fiscal year. Using this information, the committee shall create a budget for the 
    upcoming fiscal year and it will be voted on by branch membership at the first June meeting.
 
-### Section 10: Austin GMB Treasury
+### Section 11: Austin GMB Treasury
 In order to maintain equitable control of branch finances, at least the secretary and treasurer must be signers on the 
 branch bank account at all times.
 1. Officer Transition and Branch Treasury
@@ -198,7 +200,7 @@ will be responsible for counting, and reporting these motions and outcomes to th
 5. Only members in the branch in good standing may vote.
 
 ### Section 3: Meetings
-The Austin IWW branch shall hold meetings every other week. Only members of the IWW in good standing may ateend general business meetings. IWW members who are not members of ATX GMB have voice but no vote.
+The Austin IWW branch shall hold meetings every other week. Only members of the IWW in good standing and venue staffers may ateend general business meetings. IWW members who are members of ATX GMB will have voice and vote. IWW members who are not members of ATX GMB have voice but no vote.
 
 ### Section 4: Amendment of Bylaws
 Amendments to these bylaws may be proposed no later than prior to annual elections and will be voted on there by all 

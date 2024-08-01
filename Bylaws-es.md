@@ -1,9 +1,9 @@
-Estatutos del SITT-IWW Austin
+# Estatutos del SITT-IWW Austin
 Versión actual aprobada por los miembros.as de la Sección del SITT-IWW Austin el 10/11/23.
 
-Artículo I: Valores y Jurisdicción
+## Artículo I: Valores y Jurisdicción
 
-Sección 1
+### Sección 1
 La Sección Local Intersectorial (SLI) de Austin fomentará la organización
 sindical en industrias y lugares de trabajo. Asimismo, promoverá y construirá
 la solidaridad entre las trabajadoras y los trabajadores. Al formar parte del
@@ -14,16 +14,16 @@ asalariado.a (reconocido como elegible por la [Constitución del SITT-IWW](https
 excluido de la SLI debido a su(s) raza, etnia, sexo, nacionalidad, creencias,
 discapacidad, orientación sexual, edad o identidad de género.
 
-Artículo II: Membresías
+## Artículo II: Membresías
 
-Sección 1
+### Sección 1
 Todos los miembros.as del SITT-IWW que viven o trabajan en el condado de
 Travis, Texas, y pagan cuotas sindicales a través de la SLI de Austin serán
 considerados como miembros de esta Sección. Otros miembros.as pueden elegir
 afiliarse a la Sección de Austin si pueden comprometerse a participar de forma
 regular y si la Sección vota a favor de que sean aceptados.as.
 
-Sección 2
+### Sección 2
 Si existen miembros fuera del condado de Travis o los condados aledaños que se
 encuentran en lo que la a Junta de Organización del SITT-IWW Austin considera
 como una "campaña activa", estos mismos pueden solicitar volverse miembros de
@@ -36,14 +36,14 @@ más cercana se forme. Una vez que se forme aquel órgano, deberá de realizar s
 propias elecciones, sus propias reuniones y establecer su propia Sección de
 Trabajo independiente de la SLI de Austin del SITT-IWW .
 
-Sección 3
+### Sección 3
 Todos los miembros y miembras de la SLI de Austin con sus pagos de cuota en
 regla tienen el derecho a votar como parte de la SLI, pueden ser nombrados para
 comités y pueden postularse para un puesto de oficial.
 
-Artículo III: Responsabilidades de les Oficiales de la Sección
+## Artículo III: Responsabilidades de les Oficiales de la Sección
 
-Sección 1: Roles
+### Sección 1: Roles
 
 Dado que el Manual de Políticas y Procedimientos (MPP) del SITT-IWW ha
 permitido que la posición de secretario-tesorero.a de la Sección sea ocupada
@@ -53,7 +53,7 @@ Secretario.a de correspondencia de Sección.Estos oficiales deberán realizar la
 tareas prescritas por la Constitución, el Manual de Políticas y Procedimientos
 y estos Estatutos
 
-Sección 2: Secretario.a de Sección
+### Sección 2: Secretario.a de Sección
 El secretario o secretaria de Sección será el o la responsable de las tareas
 relacionadas con los registros y con los miembros.as de la misma.
 
@@ -67,7 +67,7 @@ Específicamente, deberán:
 6. El secretario.a de la Sección debe conservar todos los documentos relevantes requeridos por la Ley de Informes y Divulgación sobre la Administración del Trabajo ([LMRDA](https://www.dol.gov/agencies/olms/compliance-assistance/record-keeping)).
 7. Coordinar los temas de las reuniones de asuntos generales con la Sección Local al igual que con las y los directores de comités. 
 
-Sección 3: Secretario.a de Correspondencia de la Sección Local
+### Sección 3: Secretario.a de Correspondencia de la Sección Local
 El secretario o secretaria de correspondencia de la Sección Local es un puesto opcional cuyo propósito es ayudar al secretario o secretaria de Sección con las tareas relacionadas a la correspondencia (enumeradas como 3,5,7 en el MPP de marzo, 2020). Si no se elige un secretario o secretaria de correspondencia, el secretario o secretaria de la Sección será la persona responsable de estas tareas.
 
 Específicamente, deberán:
@@ -77,7 +77,7 @@ Específicamente, deberán:
 3. Ser responsables de asegurar un lugar o sitio regular y consistente donde llevar a cabo las reuniones mensuales de la Sección. De notificar a todos los miembros.as sobre la hora y el lugar de las reuniones y de distribuir por adelantado una agenda preliminar de la reunión.
 4. Ser responsables de asegurar que las notas de reunión mensuales sean distribuidas a todas y todos los miembros de la Sección.
 
-Sección 4: Intemediario.a ante el Departamento de Organización de la Sección (IDO)
+### Sección 4: Intemediario.a ante el Departamento de Organización de la Sección (IDO)
 El Intemediario.a ante el Departamento de Organización dentro de la Sección Local será el responsable de las tareas relacionadas con la comunicación entre el Comité de Organización de la Sección Local y la Junta del Departamento de Organización (JDO) del STIM-IWW.
 
 Específicamente, deberán:
@@ -88,7 +88,7 @@ Específicamente, deberán:
 4. Presidir sobre reuniones habituales con el Comité de Organización y delegar la toma y distribución de notas de reunión.
 5. Comunicar desde su puesto de director.a del comité, cualquier asunto nuevo al Secretario de la Sección de manera puntual y al menos dos días antes de las Reuniones de Asuntos Generales.
 
-Sección 5: Tesorero.a.a de la Sección
+### Sección 5: Tesorero.a.a de la Sección
 El tesorero.a de la Sección será la persona responsable de las tareas relacionadas con fondos y suministros (enumeradas en el MPP 4,9,10,11,12 a partir de marzo de 2020).
 
 Específicamente, deberán:
@@ -99,14 +99,14 @@ Específicamente, deberán:
 4. Si la Carta Sindical de la Sección es revocada, el Secretario.a y el Tesorero.a de la Sección deben trabajar con un representante sindical autorizado para entregar la carta y los fondos, posesiones y fondos del sindicato a la Administración General.
 5. El Informe Financiero Mensual del Secretario.a de la Sección del SITT-IWW, junto con la remesa de todas las cuotas y otros fondos sindicales recaudados durante el mes, se enviarán al Secretario-Tesorero.a General (STG) a más tardar el día 10 del siguiente mes. Si alguna Sección no lo hace, se retendrán fondos adicionales hasta que se reciban los informes. La falta de informes mensuales causará que los registros de la Sede General no se actualicen y que los miembros aparezcan como morosos (con una deuda por falta de pago de cuotas). Estos miembros no recibirán el Boletín de Organización General (BOG), ni boletas de referéndum, ni ejemplares del Industrial Worker.
 
-Sección 6: Oficial responsable de Acoso y Quejas (OAQ)
+### Sección 6: Oficial responsable de Acoso y Quejas (OAQ)
 La Sección designará al menos un.a oficial de acoso y quejas (OAQ), quien será responsable de recibir y procesar quejas, esto incluye también la mediación (si es elegida por las partes involucradas); la coordinación de cualquier apoyo inmediato y medidas de responsabilidad; y cualquier remontada necesaria de quejas.
 Este puesto puede ser compartido entre cualquiera de los miembros elegidos.as de una Sección con pagos de cuotas al día. Si se elige a más de un OAQ, se debe dar prioridad a la paridad de género.
 
-Sección 7: Delegados.as
+### Sección 7: Delegados.as
 Los delegados.as son responsables de inscribir e integrar a los nuevos miembros.as, de cobrar las cuotas y de mantener un contacto frecuente con todos los miembros.as y trabajadores.as. La cantidad de delegados.as elegida corresponderá a la cantidad que sea necesaria (preferiblemente un delegado por cada 10 miembros). Los delegados.as deberán asistir a las reuniones mensuales y especiales de la SLI del SITT-IWW Austin lo más posible.
 
-Sección 8: Informe del Secretario.a-tesorero.a.a de la Sección Local
+### Sección 8: Informe del Secretario.a-tesorero.a.a de la Sección Local
 Los y las oficiales de la Sección Local deben de trabajar juntos.as para escribir el Reporte de Secretario.a-Tesorero.a la Sección. El cual debe ser enviado cada mes a la Sede General (SG). Un ejemplo del Informe del Secretario.a-Tesorero.a de Sección esta disponible en el sitio web del SITT-IWW. 
 
 Los informes deben abordar la mayor cantidad de temas mencionados a continuación (si es que son relevantes):
@@ -122,7 +122,7 @@ Los informes deben abordar la mayor cantidad de temas mencionados a continuació
 9. El nombre del miembro.a de la Sección con autorización para solicitar créditos del Departamento de Literatura.
 10. Un informe sobre las actividades y expectativas a futuro de la Sección.
 
-Sección 9: Elección y Destitución de Oficiales
+### Sección 9: Elección y Destitución de Oficiales
 1. Las contraseñas de las cuentas de la Sección se cambiarán cuando un oficial deje su puesto.
 2. La destitución del cargo requerirá una votación de revocación por mayoría simple, que se llevará a cabo siempre y cuando 5 o más miembros de la SLI presenten una petición de revocación durante una reunión mensual o reunión especial de la Sección. Toda ausencia de mas de 3 meses de la parte de un.a oficial, será considerada como una renuncia. 
 3. Cualquier oficial puede renunciar en cualquier momento presentando su renuncia durante una reunión de la SLI. Si, durante una reunión, un oficial renuncia, se recibirán nominaciones para el puesto durante esa misma reunión y la elección de un oficial interino se llevará a cabo en la reunión que le siga.
@@ -130,7 +130,7 @@ Sección 9: Elección y Destitución de Oficiales
 5. Todo oficial debe de tener sus pagos de cuota al día. Si un oficial no cumple con este requisito, se le dará la opción de pagar las cuotas o de renunciar.
 6. Las elecciones de oficiales se llevaran a cabo a través de elecciones de segunda vuelta. (Si nadie gana la mayoría de los votos, se llevará a cabo una segunda vuelta entre los dos candidatos.as principales). La votación se llevará a cabo por medio de una boleta secreta. La Sección votará por un.a oficial de elecciones quien deberá crear, distribuir, recolectar y contar las boletas. Esta votación se llevará a cabo dos meses antes de la elección de oficiales.  El o la oficial de elecciones no podrá postularse para un cargo durante aquella elección. La sección debe de guardar las boletas durante un periodo mínimo de un año. 
 
-Sección 10: Finanzas
+### Sección 10: Finanzas
 1. La Sección mantendrá una cuenta bancaria a su nombre para fines de organización y de gastos sindicales. Será responsabilidad del Tesorero.a de la Sección mantener un registro de finanzas balanceado y actuar como enlace entre la Sección y nuestro banco.
 2. Las donaciones hechas a la Sección Local de Austin se destinarán en su totalidad al uso de esta misma Sección.
 3. Cualquier miembro.a de la Sección o de la Junta Ejecutiva General (JEG) puede solicitar acceso a los registros financieros de la Sección. El Tesorero.a deberá de proporcionar estos mismos en menos de 7 días. 
@@ -142,7 +142,7 @@ Sección 10: Finanzas
 9. Todos los gastos superiores a $150 requerirán de una moción de la Sección.
 10. Cada abril, la Sección elección de un Comité de Presupuesto y Auditoría de tres personas que se encargará de recopilar los informes de delegados y los registros bancarios del año fiscal anterior. Con esta información, el comité elaborará un presupuesto para el próximo año fiscal que será sometido a votación por los miembros.as de la Sección durante la primera reunión del mes de junio.
 
-Sección 11: Tesorería de la SLI de Austin
+### Sección 11: Tesorería de la SLI de Austin
 Para mantener un control equitativo de las finanzas de la Sección, al menos el o la secretario.a y el o la tesorero.a deberán ser signatarios.as de la cuenta bancaria de la Sección en todo momento.
 
 1. Transición de Oficiales y Tesorería de Sección
@@ -158,12 +158,12 @@ Para mantener un control equitativo de las finanzas de la Sección, al menos el 
 3. El nuevo Tesorero.a de la Sección al igual que el nuevo signatario.a entrante deben presentar la declaración notariada al banco y proporcionar la información personal requerida (números de contacto, numero de seguridad social, etc.) para que se les pueda añadir como signatarios.as de la cuenta bancaria.
 4. Como fue indicado anteriormente, el nuevo Tesorero.a de la Sección debe informar a la SG del cambio de signatarios.as de la cuenta y proporcionar los nombres de los nuevos signatarios.as.
 
-Artículo IV: Políticas y Procedimientos
+## Artículo IV: Políticas y Procedimientos
 
-Sección 1: Filosofía de Votación
+### Sección 1: Filosofía de Votación
 Las decisiones se tomarán usando una votación de mayoría simple.
 
-Sección 2: Proceso de Votación
+### Sección 2: Proceso de Votación
 Usamos las encuestas en nuestro canal de Discord para llevar a cabo votaciones en línea entre reuniones. El secretario.a de la Sección será la persona responsable de contar y reportar toda moción o resultados a el resto de la Sección.
 
 1. El quórum (5 miembros.as con pagos de cuotas al día) se define como el número mínimo de encuestados.as que deben de estar presentes en una votación. Los miembros.as que no respondan a una votación se considerarán ausentes. No se considerará como una abstención.
@@ -172,15 +172,15 @@ Usamos las encuestas en nuestro canal de Discord para llevar a cabo votaciones e
 4. Las reuniones de la Sección serán el evento principal durante el cual se organizarán votaciones. Se aplicará el quórum regular.
 5. Solo los miembros al día de la Sección pueden votar.
 
-Sección 3: Reuniones
+### Sección 3: Reuniones
 La Sección del SITT-IWW de Austin llevara a cabo reuniones cada dos semanas. Solo los miembros.as del SITT-IWW con pagos al día y el personal del lugar pueden asistir a las reuniones de asuntos generales. Los miembros del SITT-IWW que sean miembros de la SLI ATX tendrán voz y voto. Los miembros del SITT-IWW que no sean miembros de la SLI ATX tendrán voz pero no voto.
 
-Sección 4: Enmienda de los Estatutos
+### Sección 4: Enmienda de los Estatutos
 Las enmiendas o cambios a estos estatutos pueden proponerse a más tardar el día antes de las elecciones anuales. Dichas enmiendas serán votadas en ese mismo momento por todos los miembros.as elegibles de la SLI de Austin. En circunstancias extraordinarias, las enmiendas pueden proponerse antes de la próxima reunión de la SLI y ser voatadas por los miembros.as en ese momento. Las votaciones de enmienda requerirán una mayoría simple para ser aprobadas.
 
-Artículo V: Política de Acoso
+## Artículo V: Política de Acoso
 
-Sección 1: Procedimiento de Quejas por Acoso
+### Sección 1: Procedimiento de Quejas por Acoso
 En el interés de preservar la solidaridad dentro de la Sección, habrá un proceso local para manejar los informes de acoso a través de la mediación interna, particularmente en lo que concierne a los conflictos que surjan por comportamientos racistas, sexistas, homofóbicos, transfóbicos y/o otras formas de conducta discriminatoria u odiosa. Además, será responsabilidad de la Sección de apoyar la discusión interna y la educación con respecto a estos temas. Este proceso se empleará durante la mediación interna que occurirá entre miembros de la Sección de acuerdo con la constitución y los estatutos del SITT-IWW en la medida de lo aplicable. El proceso se llevará a cabo de la siguiente manera:
 
 1. La Sección examinará toda presentación de solicitud de mediación interna por un miembro.a de la Sección contra otro.a, siempre y cuando  ambas partes no pertenezcan al mismo Sindicato Industrial, Sección de Sindicato Industrial o Lugar de Trabajo. Si la parte agraviada y la parte acusada pertenecen al mismo Sindicato Industrial, Sección de Sindicato Industrial o lugar de trabajo y el órgano respectivo no tiene un proceso para escuchar la mediación interna, se podrá pedir a la Sección que examine dicho proceso de mediación interna.
@@ -197,15 +197,15 @@ En el interés de preservar la solidaridad dentro de la Sección, habrá un proc
 8. Ningún miembro.a será privado.a del uso del proceso de mediación de la Sección por cualquier órgano subordinado. Esto de acuerdo con los estatutos y la constitución del SITT-IWW.
 9. Ningún miembro será privado de la representación sindical en el trabajo, ni de los privilegios de votación por parte de la Sección a menos que su membresía haya sido suspendida o revocada de acuerdo con la constitución y los estatutos del SITT-IWW.
 
-### Artículo VI: Espacios Seguros
+## Artículo VI: Espacios Seguros
 
-**Sección 1: Confirmación de Valores**
+### Sección 1: Confirmación de Valores**
 El Industrial Workers of the World-Sindicato Industrial de Trabajadores y Trabajadoras es un sindicato dedicado a la liberación de la clase obrera. La clase obrera es diversa y en el sindicato reconocemos que la opresión tiene muchas facetas. Como tal, nos esforzamos por mantener nuestros lugares comunes libres de acciones, comportamientos y lenguaje opresivos. Estas acciones y palabras opresivas incluyen, pero no se limitan a: 
 
 racismo, sexismo, homofobia, transfobia y cualquier expresión de falta de respeto y/o intolerancia hacia el tamaño, identidad de género, identidad/expression sexual, (dis)capacidad, edad, nivel educativo, antecedentes culturales, etc. Queremos aprender los y las unos y unas de los y las  otros y otras para poder educarnos mutuamente. Cada miembro.a tiene la responsabilidad de examinar estos temas de manera personal y sobre nosotros mismos al igual que con los demás. Esta política no es una de censura, sino de abrir un diálogo de una manera respetuosa que resulte en que todos los miembros.as se sientan seguros.as y con la libertad de participar plenamente en las actividades de su sindicato. Si un miembro.a siente que esta política ha sido violada, se deberán de tomar los pasos siguientes:"
 
-Artículo VI: Espacios Seguros
-Sección 1: Reconocimiento de Valores
+## Artículo VI: Espacios Seguros
+### Sección 1: Reconocimiento de Valores
 La Industrial Workers of the World es un sindicato comprometido con la emancipación de la clase trabajadora. La clase trabajadora es diversa y, como sindicato, reconocemos que la opresión tiene muchas capas. Por lo tanto, nos esforzamos por mantener nuestros espacios libres de acciones, comportamientos y lenguajes opresivos. Estas acciones y palabras opresivas incluyen, pero no se limitan a: racismo, sexismo, homofobia, transfobia y cualquier expresión de falta de respeto y/o intolerancia hacia el tamaño, identidad de género, orientación sexual/expresión, (dis)capacidad, edad, nivel educativo y antecedentes culturales. Porque queremos aprender y educarnos mutuamente, cada uno de nosotros será responsable de abordar estos problemas en nosotros mismos y en los demás. Esta política no se trata de censura, sino de abrir un diálogo de manera respetuosa que permita que todas las personas se sientan seguras y libres para participar plenamente en las actividades de su sindicato. Si algún miembro.a siente que esta política ha sido violada, se deben seguir los siguientes pasos:
 
 1. Hacer referencia a todo el grupo sobre nuestra política. Por ejemplo: “En el SITT-IWW, tenemos una ‘Política de Espacios Seguros’. que como miembros, tenemos una responsabilidad mutua de mantener.  Me parece que esta política ha sido violada por el uso comentarios tales como ‘[comentarios hechos]’. Por favor, tengan en cuenta la Política de Espacios Seguros.”
@@ -218,26 +218,26 @@ La Industrial Workers of the World es un sindicato comprometido con la emancipac
 
 5. Adicionalmente, el espacio se definirá como cualquier oficina, reunión, evento (incluyendo entrenamientos, celebraciones, reuniones sociales, etc.) o plataformas de internet (incluyendo listas de correo, Facebook, we.riseup, Twitter, etc.) que estén patrocinadas por el SITT-IWW. Esto incluye cualquier cuerpo formalmente reconocido por el SITT-IWW, tales como las Secciones Locales Intersectoriales, los Comités Regionales de Organización y Administraciones, Secciones de Syndicatos Industriales, otros comités y cualquier otra configuración sujeta a la responsabilidad de los órganos mencionados anteriormente.
 
-Artículo VII: Comités
-Sección 1: Establecimiento de Comités
+## Artículo VII: Comités
+### Sección 1: Establecimiento de Comités
 La Sección Local Intersectorial (SLI) de Austin puede establecer comités permanentes o especiales para llevar a cabo las tareas de la sección. Los miembros.as del comité serán elegidos.as durante las reuniónes de la sección. Los miembros.as del comité pueden ser modificados o los comités pueden ser disueltos en reuniones posteriores. En el momento de su creación, la sección definitá cuando dichos comités deberán de reportarse a la sección.
 
-Sección 2: Comité de Presupuesto y Auditoría
+### Sección 2: Comité de Presupuesto y Auditoría
 Cada abril, la sección local seleccionará un Comité de Presupuesto y Auditoría de tres personas que recopilará los informes de delegados.as y los registros bancarios del año fiscal anterior. Usando esta información, el comité creará un presupuesto para el próximo año fiscal que será votado por los miembros.as de la sección durante la primera reunión de junio.
 
-Sección 3: Lista de Contactos de la Sección
+### Sección 3: Lista de Contactos de la Sección
 La lista de contactos de la Sección está moderada por el/la secretario/a de la sección. La moderación incluirá agregar a nuevos.as miembros.as de la sección a la lista de contactos al igual que redactar comunicaciones. 
 
 Otra persona designada por el/la secretario/a de la sección tendrá acceso como moderador.a ésta lista. En agosto de cada año, el/la secretario/a de la sección trabajará con la SG y los delegados.as de la sección para eliminar de la lista a los miembros.as que no hayan pagado sus cuotas.
 
-Artículo VIII: Conflictos entre Estatutos y la Constitución
+## Artículo VIII: Conflictos entre Estatutos y la Constitución
 
-Sección 1: Aclaración
+### Sección 1: Aclaración
 Todas las partes de estos estatutos que entren en conflicto con la Constitución del SITT-IWW son nulas y sin efecto.
 
-Artículo IX: Criterios para Disolver Secciónes Locales
+## Artículo IX: Criterios para Disolver Secciónes Locales
 
-Sección 1: Criterios
+### Sección 1: Criterios
 La Sección Local Intersectorial (SLI) de Austin operará sujeto a los criterios de concesión y disolución de cartas sindicales constitutivas establecidos en el [Manual de Políticas y Procedimientos del SITT-IW, Sección 8-2](https://docs.google.com/document/d/1r_liXQVoSw0wArfaL7KBVevsvzXweYrM1t_cEWkDcZA/edit#heading=h.40rwhnf9fdox).
 
 FIN DE LOS ESTATUTOS

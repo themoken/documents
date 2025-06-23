@@ -102,7 +102,15 @@ accountability measures, and any necessary escalation of complaints.
 2. If more than one HGO is elected, gender parity should be prioritized.
 
 ### Section 7: Delegates
-Delegates shall sign up and onboard new members, collect dues, and maintain regular contact with members and other fellow workers. As many delegates are elected as needed (preferably one delegate per 10 members). They shall attend monthly and special meetings of the IWW Austin GMB whenever possible.
+Delegates shall sign up and onboard new members, collect dues, and maintain
+regular contact with members and other fellow workers. As many delegates are
+elected as needed (preferably one delegate per 10 members). They shall attend
+monthly and special meetings of the IWW Austin GMB whenever possible.
+
+1. Members may hold the position of delegate at the same time as another branch
+   officer position. A term as a delegate do not count towards the limit on
+   consecutive terms. A member may be elected to be a delegate even if they
+   have been a branch officer in the last 2 terms.
 
 ### Section 8: Branch Secretary-Treasurer Report
 Branch officers must collaboratively produce the standard Branch Secretary-Treasurer Report and send it to GHQ monthly. 
